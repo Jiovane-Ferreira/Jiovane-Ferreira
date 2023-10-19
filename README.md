@@ -1,9 +1,15 @@
-### Olá! Eu sou o Jiovane Ferreira 🤘🏽
+### E ai? Eu sou o Jiovane Ferreira 🤓🤔
+
+"Desenvolvedor Web Jr. Apaixonado por aprender e desenvolver. Calmo, assertivo e dedicado." <br />
+<b>Aprendendo</b>:   <span style="color: green; font-weight: 700;"><i>ReactJS</i></span>
+
+### Meus Contatos:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551994291879?text=Olá+Vim+Pelo+Github)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiovane.ferreira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiovane-da-silva-ferreira-21415560/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jiovaneferreira/)
+##
 
 <div style="display: flex;">
 
