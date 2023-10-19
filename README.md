@@ -1,6 +1,6 @@
 ### E ai? Eu sou o Jiovane Ferreira 🤓🤔
 
-"Desenvolvedor Web Jr. Apaixonado por aprender e desenvolver. Calmo, assertivo e dedicado." <br />
+"Desenvolvedor Web Jr. Apaixonado por aprender e desenvolver. Calmo, assertivo e dedicado. Meu objetivo é aprender, participar, criar e me desenvolver profissionalmente e como ser humano através da tecnologia e das linguagens. Bem vindo ao Deserto do Real." <br />
 <b>Aprendendo</b>:   <span style="color: green; font-weight: 700;"><i>ReactJS</i></span>
 
 ### Meus Contatos:
