@@ -5,7 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiovane-da-silva-ferreira-21415560/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jiovaneferreira/)
 
-![Jiovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiovane-Ferreira&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Jiovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiovane-Ferreira&show_icons=true&theme=gotham&locale=pt-br)
 
 ### Tecnologias que utilizo no dia a dia
 
