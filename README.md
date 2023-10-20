@@ -5,7 +5,7 @@
 <br /> 
 
 Bem vindo ao Deserto do Real." <br />
-<b>Aprendendo</b>:   <span style="color: green; font-weight: 700;"><i>ReactJS</i></span>
+<b>Aprendendo</b>:   <span style="color: #00FF00; font-weight: 700;"><i>ReactJS</i></span>
 
 ### Meus Contatos:
 
