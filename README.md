@@ -4,8 +4,8 @@
 <br />
 <br /> 
 
-Bem vindo ao Deserto do Real." <br />
-<b>Aprendendo</b>:   <span style="color: #00FF00; font-weight: 700;"><i>ReactJS</i></span>
+Bem vindo ao Deserto do Real. <br />
+<b>Aprendendo</b>: ReactJS
 
 ### Meus Contatos:
 
