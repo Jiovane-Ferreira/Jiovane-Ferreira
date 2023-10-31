@@ -4,7 +4,7 @@
 <br />
 <br /> 
 
-Bem vindo ao Deserto do Real. <br />
+Bem vindo ao Deserto do Real <br />
 <b>Aprendendo</b>: ReactJS
 
 ### Meus Contatos:
