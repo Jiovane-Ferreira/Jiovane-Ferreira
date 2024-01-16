@@ -1,4 +1,4 @@
-### E ai? Eu sou o Jiovane Ferreira 🤓🤔
+### E ai, blz? Eu sou o Jiovane Ferreira 🤓🤔
 
 "Desenvolvedor Web Jr. Apaixonado por aprender e desenvolver. Calmo, assertivo e dedicado. Meu objetivo é aprender, participar, criar e me desenvolver profissionalmente e como ser humano através da tecnologia e das linguagens."
 <br />
