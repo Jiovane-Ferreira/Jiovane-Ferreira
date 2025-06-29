@@ -5,7 +5,7 @@
 <br /> 
 
 Bem vindo ao Deserto do Real. <br />
-<b>Aprendendo</b>: CRUD (PHP OO)
+<b>Aprendendo</b>: DevOps
 
 ### Meus Contatos:
 
